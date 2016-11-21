@@ -1,0 +1,24 @@
+{
+  "name": "poc-oauth-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcaramelo/poc-oauth-server.git"
+  },
+  "author": "David Caramelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcaramelo/poc-oauth-server/issues"
+  },
+  "homepage": "https://github.com/dcaramelo/poc-oauth-server#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "oauth2-server": "^2.4.1"
+  }
+}
